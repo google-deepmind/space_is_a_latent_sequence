@@ -2,4 +2,4 @@ jax==0.6.1
 matplotlib==3.9.1
 networkx==3.3
 numpy==2.2.5
-tqdm==4.64.1
+tqdm==4.66.3
